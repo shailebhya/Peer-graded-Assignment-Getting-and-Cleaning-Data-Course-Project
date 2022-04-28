@@ -1,5 +1,6 @@
+###CodeBook
 
-## the original data was modifies by
+## the original data was modified by
 
 * Merging the training and the test sets to create one data set.
 * Extracting only the measurements on the mean and standard deviation for each measurement.
