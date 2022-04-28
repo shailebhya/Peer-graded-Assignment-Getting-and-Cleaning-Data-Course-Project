@@ -1,5 +1,5 @@
-##CodeBook
 
+### CodeBook
 ## the original data was modified by
 
 * Merging the training and the test sets to create one data set.
